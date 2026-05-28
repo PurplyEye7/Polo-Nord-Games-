@@ -1,0 +1,6 @@
+{
+  "name": "Polo Nord Games",
+  "description": "Il Portale dei Giochi Sottozero. An elegant, frosted portal featuring premium unblocked HTML5 winter games in a beautiful polar wonderland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
